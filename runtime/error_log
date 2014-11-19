@@ -1,0 +1,329 @@
+[19-Nov-2014 02:13:04 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 144
+[19-Nov-2014 02:13:04 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 02:18:15 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 144
+[19-Nov-2014 02:18:15 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 02:19:40 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 144
+[19-Nov-2014 02:19:40 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 02:25:27 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 144
+[19-Nov-2014 02:25:27 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 02:26:07 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 144
+[19-Nov-2014 02:26:07 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 02:27:22 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 144
+[19-Nov-2014 02:27:22 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 02:28:18 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 144
+[19-Nov-2014 02:28:18 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 02:29:08 UTC] PHP Warning:  touch(): Unable to create file install/lock because Permission denied in /home/aclass/workspace/PHP/sourcecode/runtime/controls/install_php/indexaction.class.php on line 80
+[19-Nov-2014 02:29:11 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:29:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 123
+[19-Nov-2014 02:29:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 103
+[19-Nov-2014 02:29:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:29:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:29:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:29:11 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 02:29:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 74
+[19-Nov-2014 02:29:11 UTC] PHP Notice:  Undefined index: pri in /home/aclass/workspace/PHP/sourcecode/brophp/bases/db.class.php on line 105
+[19-Nov-2014 02:29:11 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 02:29:22 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:29:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 123
+[19-Nov-2014 02:29:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 103
+[19-Nov-2014 02:29:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:29:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:29:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:29:22 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 02:29:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 74
+[19-Nov-2014 02:29:22 UTC] PHP Notice:  Undefined index: pri in /home/aclass/workspace/PHP/sourcecode/brophp/bases/db.class.php on line 105
+[19-Nov-2014 02:29:22 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 02:29:31 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:29:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 123
+[19-Nov-2014 02:29:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 103
+[19-Nov-2014 02:29:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:29:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:29:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:29:31 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 02:29:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 74
+[19-Nov-2014 02:29:31 UTC] PHP Notice:  Undefined index: pri in /home/aclass/workspace/PHP/sourcecode/brophp/bases/db.class.php on line 105
+[19-Nov-2014 02:29:31 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 02:29:41 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:29:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 123
+[19-Nov-2014 02:29:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 103
+[19-Nov-2014 02:29:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:29:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:29:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:29:41 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 02:29:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 74
+[19-Nov-2014 02:29:41 UTC] PHP Notice:  Undefined index: pri in /home/aclass/workspace/PHP/sourcecode/brophp/bases/db.class.php on line 105
+[19-Nov-2014 02:29:41 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 02:29:52 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:29:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 123
+[19-Nov-2014 02:29:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 103
+[19-Nov-2014 02:29:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:29:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:29:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:29:52 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 02:29:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 74
+[19-Nov-2014 02:29:52 UTC] PHP Notice:  Undefined index: pri in /home/aclass/workspace/PHP/sourcecode/brophp/bases/db.class.php on line 105
+[19-Nov-2014 02:29:52 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 02:30:22 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:30:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 123
+[19-Nov-2014 02:30:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 103
+[19-Nov-2014 02:30:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:30:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:30:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:30:22 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 02:30:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 74
+[19-Nov-2014 02:30:22 UTC] PHP Notice:  Undefined index: pri in /home/aclass/workspace/PHP/sourcecode/brophp/bases/db.class.php on line 105
+[19-Nov-2014 02:30:33 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:30:34 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:30:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 123
+[19-Nov-2014 02:30:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 103
+[19-Nov-2014 02:30:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:30:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:30:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:30:34 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 02:30:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 74
+[19-Nov-2014 02:30:34 UTC] PHP Notice:  Undefined index: pri in /home/aclass/workspace/PHP/sourcecode/brophp/bases/db.class.php on line 105
+[19-Nov-2014 02:30:40 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:30:40 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:31:05 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:31:05 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:31:22 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:31:22 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:31:42 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:31:42 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:31:53 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:31:53 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:32:05 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:32:05 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:32:06 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:32:06 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:32:07 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:32:07 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:32:10 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:32:10 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:32:17 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:32:17 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:32:33 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:32:33 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:32:35 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:32:35 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:32:36 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:32:36 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:32:36 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:32:36 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:32:37 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:32:37 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:32:39 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:32:39 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:32:40 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:32:40 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:32:50 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:32:50 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:32:57 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:32:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 123
+[19-Nov-2014 02:32:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 103
+[19-Nov-2014 02:32:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:32:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:32:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:32:57 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 02:32:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 74
+[19-Nov-2014 02:32:57 UTC] PHP Notice:  Undefined index: pri in /home/aclass/workspace/PHP/sourcecode/brophp/bases/db.class.php on line 105
+[19-Nov-2014 02:33:04 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:33:05 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:33:05 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:33:05 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:33:14 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:33:33 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:33:43 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:33:43 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:33:43 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:33:43 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:33:43 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:33:43 UTC] PHP Warning:  array_fill(): Number of elements must be positive in /home/aclass/workspace/PHP/sourcecode/brophp/bases/db.class.php on line 174
+[19-Nov-2014 02:33:43 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/aclass/workspace/PHP/sourcecode/brophp/bases/db.class.php on line 174
+[19-Nov-2014 02:33:59 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:33:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 123
+[19-Nov-2014 02:33:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 103
+[19-Nov-2014 02:33:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:33:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:33:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:33:59 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 02:33:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 74
+[19-Nov-2014 02:33:59 UTC] PHP Notice:  Undefined index: pri in /home/aclass/workspace/PHP/sourcecode/brophp/bases/db.class.php on line 105
+[19-Nov-2014 02:34:08 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:34:09 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:34:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 123
+[19-Nov-2014 02:34:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 103
+[19-Nov-2014 02:34:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:34:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:34:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:34:09 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 02:34:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 74
+[19-Nov-2014 02:34:09 UTC] PHP Notice:  Undefined index: pri in /home/aclass/workspace/PHP/sourcecode/brophp/bases/db.class.php on line 105
+[19-Nov-2014 02:34:23 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:34:23 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:34:34 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:34:34 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:34:35 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:34:35 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:34:47 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 02:34:47 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 02:46:43 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:46:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 123
+[19-Nov-2014 02:46:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 103
+[19-Nov-2014 02:46:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:46:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:46:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:46:43 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 02:46:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 74
+[19-Nov-2014 02:46:43 UTC] PHP Notice:  Undefined index: pri in /home/aclass/workspace/PHP/sourcecode/brophp/bases/db.class.php on line 105
+[19-Nov-2014 02:46:43 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 02:47:27 UTC] PHP Warning:  touch(): Unable to create file install/lock because Permission denied in /home/aclass/workspace/PHP/sourcecode/runtime/controls/install_php/indexaction.class.php on line 80
+[19-Nov-2014 02:47:31 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 02:47:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 123
+[19-Nov-2014 02:47:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/subjectmodel.class.php on line 103
+[19-Nov-2014 02:47:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:47:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:47:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/pubmodel.class.php on line 25
+[19-Nov-2014 02:47:31 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 02:47:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 74
+[19-Nov-2014 02:47:31 UTC] PHP Notice:  Undefined index: pri in /home/aclass/workspace/PHP/sourcecode/brophp/bases/db.class.php on line 105
+[19-Nov-2014 02:47:31 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 03:17:05 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:17:05 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 03:17:05 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 03:17:46 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:17:46 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 03:17:46 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 03:18:31 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:18:31 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 03:19:21 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:19:21 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:19:21 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 03:19:21 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 03:19:28 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:19:42 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:19:47 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:19:47 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 03:19:47 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 03:19:55 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:19:56 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:19:56 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:19:56 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:19:56 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:19:57 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:19:57 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 03:20:16 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:20:18 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 03:20:36 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 03:20:44 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 03:20:44 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 03:20:54 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 03:20:54 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 03:20:54 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 03:20:54 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 03:21:00 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 03:21:00 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 03:22:51 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 03:22:51 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 03:22:57 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 03:22:57 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 03:22:58 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 03:22:58 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 03:22:59 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 03:23:04 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:23:04 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 03:23:07 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:23:07 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:23:07 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 03:23:07 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 03:23:12 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:23:25 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:23:31 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:23:31 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:23:31 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 03:23:31 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 03:23:40 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:23:40 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:23:40 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:23:40 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:23:40 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:23:41 UTC] PHP Notice:  Undefined index: home_login in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/usermodel.class.php on line 195
+[19-Nov-2014 03:23:41 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 03:24:52 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 03:24:52 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 03:25:05 UTC] PHP Notice:  Undefined offset: 2 in /home/aclass/workspace/PHP/sourcecode/commons/functions.inc.php on line 16
+[19-Nov-2014 03:25:11 UTC] PHP Notice:  Use of undefined constant LISTSIZE - assumed 'LISTSIZE' in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 170
+[19-Nov-2014 03:25:11 UTC] PHP Notice:  Use of undefined constant COMMENTSIZE - assumed 'COMMENTSIZE' in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 171
+[19-Nov-2014 03:25:38 UTC] PHP Warning:  opendir(./runtime/cache): failed to open dir: Permission denied in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 256
+[19-Nov-2014 03:25:38 UTC] PHP Warning:  readdir(): no Directory resource supplied in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 258
+[19-Nov-2014 03:25:38 UTC] PHP Warning:  readdir(): no Directory resource supplied in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 259
+[19-Nov-2014 03:25:38 UTC] PHP Warning:  readdir(): no Directory resource supplied in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 262
+[19-Nov-2014 03:25:38 UTC] PHP Notice:  Use of undefined constant LISTSIZE - assumed 'LISTSIZE' in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 170
+[19-Nov-2014 03:25:38 UTC] PHP Notice:  Use of undefined constant COMMENTSIZE - assumed 'COMMENTSIZE' in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 171
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 325 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 327 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 329 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 331 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 333 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 335 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 337 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 339 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 341 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 343 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 345 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 347 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 349 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 351 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 353 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 355 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 357 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 359 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Warning:  Missing argument 2 for Dpdo::query(), called in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 361 and defined in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 44
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Undefined variable: method in /home/aclass/workspace/PHP/sourcecode/brophp/bases/dpdo.class.php on line 49
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Use of undefined constant LISTSIZE - assumed 'LISTSIZE' in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 170
+[19-Nov-2014 03:25:41 UTC] PHP Notice:  Use of undefined constant COMMENTSIZE - assumed 'COMMENTSIZE' in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 171
+[19-Nov-2014 03:25:46 UTC] PHP Notice:  Use of undefined constant LISTSIZE - assumed 'LISTSIZE' in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 170
+[19-Nov-2014 03:25:46 UTC] PHP Notice:  Use of undefined constant COMMENTSIZE - assumed 'COMMENTSIZE' in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 171
+[19-Nov-2014 03:25:59 UTC] PHP Notice:  Use of undefined constant LISTSIZE - assumed 'LISTSIZE' in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 170
+[19-Nov-2014 03:25:59 UTC] PHP Notice:  Use of undefined constant COMMENTSIZE - assumed 'COMMENTSIZE' in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 171
+[19-Nov-2014 03:26:08 UTC] PHP Notice:  Undefined index: logo in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 63
+[19-Nov-2014 03:26:08 UTC] PHP Notice:  Undefined variable: str in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 90
+[19-Nov-2014 03:26:08 UTC] PHP Notice:  Use of undefined constant LISTSIZE - assumed 'LISTSIZE' in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 170
+[19-Nov-2014 03:26:08 UTC] PHP Notice:  Use of undefined constant COMMENTSIZE - assumed 'COMMENTSIZE' in /home/aclass/workspace/PHP/sourcecode/runtime/models/admin_php/setmodel.class.php on line 171
+[19-Nov-2014 03:27:02 UTC] PHP Notice:  Undefined index: master in /home/aclass/workspace/PHP/sourcecode/runtime/controls/admin_php/boardaction.class.php on line 42
+[19-Nov-2014 03:27:34 UTC] PHP Notice:  Undefined index: master in /home/aclass/workspace/PHP/sourcecode/runtime/controls/admin_php/boardaction.class.php on line 42
+[19-Nov-2014 03:27:40 UTC] PHP Notice:  Undefined variable: zid in /home/aclass/workspace/PHP/sourcecode/runtime/models/index_php/boardmodel.class.php on line 71
+[19-Nov-2014 03:28:01 UTC] PHP Warning:  Missing argument 2 for LogModel::loglist(), called in /home/aclass/workspace/PHP/sourcecode/runtime/controls/space_php/indexaction.class.php on line 27 and defined in /home/aclass/workspace/PHP/sourcecode/runtime/models/space_php/logmodel.class.php on line 48
+[19-Nov-2014 03:28:01 UTC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in /home/aclass/workspace/PHP/sourcecode/classes/ajaxpage.class.php on line 86
+[19-Nov-2014 03:28:01 UTC] PHP Warning:  Missing argument 2 for FriendModel::friend_list(), called in /home/aclass/workspace/PHP/sourcecode/runtime/controls/space_php/indexaction.class.php on line 33 and defined in /home/aclass/workspace/PHP/sourcecode/runtime/models/space_php/friendmodel.class.php on line 49
+[19-Nov-2014 03:28:01 UTC] PHP Notice:  Undefined index: fid in /home/aclass/workspace/PHP/sourcecode/runtime/controls/space_php/indexaction.class.php on line 41
+[19-Nov-2014 03:28:02 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 03:28:02 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 03:28:02 UTC] PHP Warning:  Missing argument 2 for MessageModel::message_index(), called in /home/aclass/workspace/PHP/sourcecode/runtime/controls/space_php/indexaction.class.php on line 66 and defined in /home/aclass/workspace/PHP/sourcecode/runtime/models/space_php/messagemodel.class.php on line 20
+[19-Nov-2014 03:28:02 UTC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in /home/aclass/workspace/PHP/sourcecode/classes/ajaxpage.class.php on line 86
+[19-Nov-2014 03:38:57 UTC] PHP Warning:  Missing argument 2 for LogModel::loglist(), called in /home/aclass/workspace/PHP/sourcecode/runtime/controls/space_php/indexaction.class.php on line 27 and defined in /home/aclass/workspace/PHP/sourcecode/runtime/models/space_php/logmodel.class.php on line 48
+[19-Nov-2014 03:38:57 UTC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in /home/aclass/workspace/PHP/sourcecode/classes/ajaxpage.class.php on line 86
+[19-Nov-2014 03:38:57 UTC] PHP Warning:  Missing argument 2 for FriendModel::friend_list(), called in /home/aclass/workspace/PHP/sourcecode/runtime/controls/space_php/indexaction.class.php on line 33 and defined in /home/aclass/workspace/PHP/sourcecode/runtime/models/space_php/friendmodel.class.php on line 49
+[19-Nov-2014 03:38:57 UTC] PHP Notice:  Undefined index: fid in /home/aclass/workspace/PHP/sourcecode/runtime/controls/space_php/indexaction.class.php on line 41
+[19-Nov-2014 03:38:57 UTC] PHP Notice:  Undefined variable: ascii in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 74
+[19-Nov-2014 03:38:57 UTC] PHP Notice:  Uninitialized string offset: 4 in /home/aclass/workspace/PHP/sourcecode/brophp/classes/vcode.class.php on line 100
+[19-Nov-2014 03:38:57 UTC] PHP Warning:  Missing argument 2 for MessageModel::message_index(), called in /home/aclass/workspace/PHP/sourcecode/runtime/controls/space_php/indexaction.class.php on line 66 and defined in /home/aclass/workspace/PHP/sourcecode/runtime/models/space_php/messagemodel.class.php on line 20
+[19-Nov-2014 03:38:57 UTC] PHP Warning:  The magic method __get() must have public visibility and cannot be static in /home/aclass/workspace/PHP/sourcecode/classes/ajaxpage.class.php on line 86
