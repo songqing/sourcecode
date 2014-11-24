@@ -184,7 +184,7 @@
 						</td>
 					</tr>
 					<tr>
-						<th><b>*</b>密码:<:<h>
+						<th><b>*</b>密码:</th>
 						<td>
 							<input type='password' name='pass' id='password' />
 							<span>请填写密码</span>

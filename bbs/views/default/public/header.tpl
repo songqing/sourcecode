@@ -63,6 +63,9 @@
 </head>
 <{/nocache}>
 <body>
+<div id="top">
+	<div class="top_left"><a href="http://linux.zsq.com"><strong>返回linux课程网站</strong></a></div>
+</div>
 <div id="header">
 		<{nocache}>
 		<div id="logo_user_login">

@@ -1,5 +1,5 @@
 <?php
-	define("DEBUG","0");				      				//开启调试模式 1 开启 0 关闭
+	define("DEBUG","1");				      				//开启调试模式 1 开启 0 关闭
 	define("DRIVER","pdo");				      				//数据库的驱动，本系统支持pdo(默认)和mysqli两种
 	//define("DSN", "mysql:host=localhost;dbname=brophp"); 	//如果使用PDO可以使用，不使用则默认连接MySQL
 	define("HOST","127.0.0.1");			      			//数据库主机
@@ -7,7 +7,7 @@
 	define("PASS","root");                       //数据库密码
 	define("DBNAME","sourcecode");			      					//数据库名
 	define("TABPREFIX","sc_");                           	//数据表前缀
-	define("CTIME","3600");                          		//缓存时间
+	define("CTIME","0");                          		//缓存时间  zsq  before is 3600
 	define("TPLPREFIX", "tpl");                           	//模板文件的后缀名
 	define("TPLSTYLE", "default");                        	//默认模板存放的目录
 	
@@ -18,9 +18,11 @@
 	
 	/*以下为网站配置,勿动哈*/
 	//网站公共配置
-	define("TITLE","源代码");								//网站标题
-	define("KEYWORDS","Linux、Apache、MySQL、PHP、关键字fdskjafdsslkjfd");	//网站关键字
-	define("DESC","lamp技术论坛，描述,fsdalkfdsfdsa");					//网站简述
+	//define("TITLE","软微linux论坛");								//网站标题
+	define("TITLE","软微linux论坛");								//网站标题
+	define("KEYWORDS","Linux、软微、软件与微电子学院、北京大学、关键字fdskjafdsslkjfd");	//网站关键字
+	//define("KEYWORDS","Linux、软微、软件与微电子学院、北京大学、关键字fdskjafdsslkjfd");	//网站关键字
+	define("DESC","软微linux论坛，描述,fsdalkfdsfdsa");					//网站简述
 	define("LOGINREWARD","2");								//登陆奖励，即登录加分
 	define("LOGO","logo.png");								//设置logo
 	

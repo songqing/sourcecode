@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" href="<{$res}>/css/common.css" type="text/css" />
-<title>源代码后台管理</title>
+<title>linux论坛后台管理</title>
 </head>
 <frameset rows="60,*" cols="*" frameborder="no" border="0" framespacing="0" scrolling="No">
   <frame src="<{$url}>/top" name="topFrame" frameborder="no" scrolling="No" noresize="noresize" id="topFrame" title="topFrame" />
