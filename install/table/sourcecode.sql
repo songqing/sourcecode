@@ -24,7 +24,7 @@ CREATE TABLE sc_user(
     sign VARCHAR(300) NOT NULL DEFAULT '这个家伙很懒，什么都没留下',# 用户签名
     state ENUM('0','1') NOT NULL DEFAULT '1',                       # 状态  0=禁用 1=正常
     KEY indexs(name,pass)                                   		# 创建 sign 索引
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 #等级表
 DROP TABLE IF EXISTS sc_level;
@@ -33,7 +33,7 @@ CREATE TABLE sc_level(
     name CHAR(30) NOT NULL UNIQUE DEFAULT '',                       # 等级名称
     mini INT UNSIGNED NOT NULL DEFAULT '0',                         # 最小积分
     maxi INT UNSIGNED NOT NULL DEFAULT '0'                          # 最大积分
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 INSERT INTO `sc_level` VALUES (1, 'P1', 0, 101);
 INSERT INTO `sc_level` VALUES (2, 'P2', 102, 229);
 INSERT INTO `sc_level` VALUES (3, 'P3', 400, 599);
@@ -52,7 +52,7 @@ CREATE TABLE sc_flink(
     name CHAR(30) NOT NULL UNIQUE DEFAULT '',                       # 名称
     site VARCHAR(150) NOT NULL DEFAULT '',                          # 网址
     ptime INT UNSIGNED NOT NULL DEFAULT '0'                         # 添加时间
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 #主题
 DROP TABLE IF EXISTS sc_subject;
@@ -71,7 +71,7 @@ CREATE TABLE sc_subject(
     ptype ENUM('1','2','3','4','0') NOT NULL DEFAULT '4',           # 文章类型 1=置顶 2=精华 3=推荐 4=普通 0=关闭
     KEY indexs(title),		                                		# 给文章标题加索引
     FULLTEXT (content)                                      		# 给内容加超文本索引
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 
 #主题评论表
@@ -84,7 +84,7 @@ CREATE TABLE sc_comment(
     ptime INT UNSIGNED NOT NULL DEFAULT '0',                        # 评论时间
     ip INT UNSIGNED NOT NULL DEFAULT '0',                           # 评论者IP地址
     FULLTEXT (content)                                      		# 给评论内容加超文本索引
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 
 #版块分类表
@@ -98,7 +98,7 @@ CREATE TABLE sc_board(
     display ENUM('0','1') NOT NULL DEFAULT '1',                     # 是否显示 0=隐藏 1=显示
     img_path CHAR(22) NOT NULL DEFAULT 'forum.gif',                 # 版块图标
     order_num tinyINT NOT NULL DEFAULT '0'                          # 排序越小排的越前
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 INSERT INTO sc_board(name,parent_id,path) VALUES('SourceCode','0','0,1');
 INSERT INTO sc_board(name,parent_id,path) VALUES('默认版块','1','0,1,2');
 
@@ -114,7 +114,7 @@ CREATE TABLE sc_news(
     ip INT UNSIGNED NOT NULL DEFAULT '0',                           # ip
     KEY title_index(title),                                 		# 为标题添加索引
     FULLTEXT(content)                                       		# 为内容创建超文本索引
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 #公告表
 DROP TABLE IF EXISTS sc_notice;
@@ -127,7 +127,7 @@ CREATE TABLE sc_notice(
 	start_time INT UNSIGNED NOT NULL DEFAULT '0',					# 公告开始时间
 	stop_time INT UNSIGNED NOT NULL DEFAULT '0',					# 公告结束时间
     FULLTEXT(content)                                       		# 为公告内容添加超文本索引
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 
 
@@ -139,7 +139,7 @@ CREATE TABLE sc_guest(
     uid INT UNSIGNED NOT NULL DEFAULT '0',                  		# 用户ID号
     guest_id INT UNSIGNED NOT NULL DEFAULT '0',            			# 访客ID号
 	vtime INT UNSIGNED NOT NULL DEFAULT '0'							# 访问时间
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 #好友表
 DROP TABLE IF EXISTS sc_friend;
@@ -149,7 +149,7 @@ CREATE TABLE sc_friend(
     fid INT UNSIGNED NOT NULL DEFAULT '0',                          # 好友ID号
     status ENUM('0','1') NOT NULL DEFAULT '0',                      # 添加好友状态 0=等待同意 1=已同意 加入数据库时要双重插入
     ptime INT UNSIGNED NOT NULL DEFAULT '0'                        	# 两边都同意时就插入添加时间
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 #留言表
 DROP TABLE IF EXISTS sc_message;
@@ -161,7 +161,7 @@ CREATE TABLE sc_message(
     ptime INT UNSIGNED NOT NULL DEFAULT '0',                        # 留言时间
     ip INT UNSIGNED NOT NULL DEFAULT '0',                           # 留言者的IP
     FULLTEXT (content)                                      		# 给留言内容加超文本索引
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 #日志表
 DROP TABLE IF EXISTS sc_log;
@@ -175,7 +175,7 @@ CREATE TABLE sc_log(
     ip INT UNSIGNED NOT NULL DEFAULT '0',                           # IP地址
     KEY title_index(title),                                 		# 给标题加索引
     FULLTEXT (content)                                      		# 给留言内容加超文本索引
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 #日志评论表
 DROP TABLE IF EXISTS sc_log_comm;
@@ -187,7 +187,7 @@ CREATE TABLE sc_log_comm(
     ptime INT UNSIGNED NOT NULL DEFAULT '0',                        # 评论时间
     ip INT UNSIGNED NOT NULL DEFAULT '0',                           # 评论IP
     KEY content_index(content)                              		# 给内容加索引
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 #说说表
 DROP TABLE IF EXISTS sc_speak;
@@ -198,7 +198,7 @@ CREATE TABLE sc_speak(
     ptime INT UNSIGNED NOT NULL DEFAULT '0',                        # 发表说说的时间
     ip INT UNSIGNED NOT NULL DEFAULT '0',                           # 发表时的IP地址
     KEY content_index(content)                              		# 给内容加索引
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 #说说回复表
 DROP TABLE IF EXISTS sc_speak_comm;
@@ -210,7 +210,7 @@ CREATE TABLE sc_speak_comm(
     ptime INT UNSIGNED NOT NULL DEFAULT '0',                        # 评论时间
     ip INT UNSIGNED NOT NULL DEFAULT '0',                           # 评论者的IP地址
     KEY content_index(content)                              		# 给内容加索引
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 #短消息表
 DROP TABLE IF EXISTS sc_sms;
@@ -226,7 +226,7 @@ CREATE TABLE sc_sms(
     ip INT UNSIGNED NOT NULL DEFAULT '0',                           # 发件人IP
 	sms_sort TINYINT UNSIGNED NOT NULL DEFAULT '1',  				# 0=管理员短信  1=普通用户短信  2=好友请求验证  3=打招呼 4=系统信息
     KEY content_index(content)                              		# 给内容加索引
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 #相册表
 DROP TABLE IF EXISTS sc_album;
@@ -237,7 +237,7 @@ CREATE TABLE sc_album(
 	cover_path VARCHAR(22) NOT NULL DEFAULT 'nophoto.gif',			# 封面
     authority ENUM('0','1','2') DEFAULT '1',                        # 权限 0=仅自己可见 1=公开 2=会员可查看
     ptime INT UNSIGNED NOT NULL DEFAULT '0'                         # 更新时间
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 #照片表
 DROP TABLE IF EXISTS sc_photo;
@@ -248,7 +248,7 @@ CREATE TABLE sc_photo(
     img_path CHAR(22) NOT NULL DEFAULT '',                          # 图片路径
     ptime INT UNSIGNED NOT NULL DEFAULT '0',                        # 上传时间
     desn VARCHAR(300) NOT NULL DEFAULT '暂无简介'                   # 简介
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 #省
 DROP TABLE IF EXISTS sc_province;
@@ -257,7 +257,7 @@ CREATE TABLE sc_province(
 	name varchar(90) NOT NULL DEFAULT '',							# 省名
 	sort INT(10) UNSIGNED NOT NULL DEFAULT '0',						# 省排序
 	remark varchar(50) NOT NULL DEFAULT ''							# 省类型
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 #市
 DROP TABLE IF EXISTS sc_city;
@@ -266,7 +266,7 @@ CREATE TABLE sc_city(
 	name varchar(60) NOT NULL DEFAULT '',							# 市名
 	pid INT(10) UNSIGNED NOT NULL DEFAULT '0',						# 所属省ID
 	sort INT(10) UNSIGNED NOT NULL DEFAULT '0'						# 市排序
-)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+)ENGINE=myisam DEFAULT CHARACTER SET utf8 COLLATE utf8_unicode_ci;
 
 
 ###############################数据初始化########################

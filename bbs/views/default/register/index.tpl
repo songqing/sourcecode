@@ -1,5 +1,6 @@
 <{include file="public/header.tpl"}>
 	<link rel='stylesheet' type='text/css' href="<{$res}>/css/register.css" />
+	<script src='<{$public}>/js/ajax3.0.js'></script>
 	<script src='<{$res}>/js/common.js'></script>
 	<script src='<{$public}>/js/common.js'></script>
 	<script>
