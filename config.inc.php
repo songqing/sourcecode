@@ -5,9 +5,9 @@
 	define("HOST","127.0.0.1");			      			//数据库主机
 	define("USER","root");                               	//数据库用户名
 	define("PASS","root");                       //数据库密码
-	define("DBNAME","sourcecode");			      					//数据库名
+	define("DBNAME","linuxpkuss_sub");			      					//数据库名
 	define("TABPREFIX","sc_");                           	//数据表前缀
-	define("CTIME","0");                          		//缓存时间  zsq  before is 3600
+	define("CTIME","360000");                          		//缓存时间  zsq  before is 3600
 	define("TPLPREFIX", "tpl");                           	//模板文件的后缀名
 	define("TPLSTYLE", "default");                        	//默认模板存放的目录
 	
